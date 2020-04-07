@@ -1,6 +1,6 @@
 <template>
   <a-layout-header :style="{ position: 'fixed', zIndex: 1, width: '100%' }">
-    <div class="logo"> ABİS TEKNOLOJİ</div>
+    <div class="logo">COVIDSIS</div>
     <a-menu
       theme="dark"
       mode="horizontal"
